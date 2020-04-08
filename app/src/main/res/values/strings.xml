@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">10117143-IkbalPadilah</string>
+    <string name="monitory_membantu_anda_mengontrol_hp_anak">Monitory Membantu Anda Mengontrol HP Anak</string>
+    <string name="title_activity_login_code">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="ketentuan">
+        Dengan menekan tombol masuk berarti Anda menyetujui <b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> kami
+    </string>
+</resources>

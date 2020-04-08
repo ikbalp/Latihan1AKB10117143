@@ -1,0 +1,2 @@
+rootProject.name='Cobaan'
+include ':app'
